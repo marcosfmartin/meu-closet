@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Meu Closet</string>
+
+    <string-array name="categoria_array">
+        <item>Roupa masculina</item>
+        <item>Roupa feminina</item>
+        <item>Acessórios</item>
+        <item>Cama e banho</item>
+    </string-array>
+
+</resources>
